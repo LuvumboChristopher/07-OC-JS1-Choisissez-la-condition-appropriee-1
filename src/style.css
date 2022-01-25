@@ -1,0 +1,19 @@
+body{
+  text-align:center;
+  font-family: Verdana, Geneva, sans-serif;
+}
+#age {
+  width: 300px;
+}
+#bouton {  
+  color: white;
+  background-color:blue;
+  border: none;
+  cursor: pointer;
+}
+
+input {
+  padding: 15px;
+  border-radius: 5px;
+  margin: 1rem 5px;
+}
